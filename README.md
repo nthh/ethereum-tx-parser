@@ -4,4 +4,4 @@ Live demo [here](https://stackblitz.com/edit/ether-raw-tx?embed=1&file=app/app.c
 
 Password: ethereum123
 
-Built on [AWS Chalice](https://github.com/aws/chalice) with [Angular Material](https://material.angular.io) front end
+Built on [AWS Chalice](https://github.com/aws/chalice) and [DynamoDB](https://aws.amazon.com/dynamodb/) with [Angular Material](https://material.angular.io) front end
